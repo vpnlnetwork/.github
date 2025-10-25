@@ -37,7 +37,7 @@ VPNL turns performance data into a **universal proof layer for DeFi and AI-drive
 
 Each component is modular, open-source, and designed for integration into existing ecosystems like Uniswap v4, Hyperliquid, and AI coordination networks.
 
---
+---
 
 ### 💠 Principles
 
